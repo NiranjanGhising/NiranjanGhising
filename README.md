@@ -13,7 +13,7 @@
   <em>Data Analyst | Turning Data into Insights</em>
 </h3>
 
-<img align="right" alt="Coding" width="240"  src="https://i.pinimg.com/736x/68/e5/aa/68e5aa0b22fd0280f88ffd2ac7720cfe.jpg"> </img>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Science-blue?style=flat-square&logo=databricks&logoColor=white" />
